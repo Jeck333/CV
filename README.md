@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：32  
-* 手 机：9273573910 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp; 邮 箱：flb9273573910@gmail.com   
+* 手 机： &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp; 邮 箱：flb9273573910@gmail.com   
 * 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：前端开发工程师
 
 ## 工作及教育经历
