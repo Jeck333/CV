@@ -5,12 +5,12 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：32  
-* 手 机：9273573910 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：flb9273573910@gmail.com   
+* 邮 箱：flb9273573910@gmail.com &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;   
 * 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：前端开发工程师
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 开发事业部-前端部门       
+* 某科技公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 开发事业部-前端部门       
 * 四川科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2012.9~2015.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科         
 
 ## 专业技能
@@ -43,4 +43,3 @@
 
 ## 其他信息 
 * 喜欢钻研技术
-* 性格偏内向，但做事负责认真
